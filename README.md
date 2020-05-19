@@ -1,3 +1,12 @@
+======= 0. Install Dependencies =======
+
+============= Terminal  1 =============
+$ npm install
+
+
+
+
+
 ======= 1. Seeding Instructions =======
 
 ============= Terminal  1 =============
@@ -43,7 +52,10 @@ $ npm test
 ========= 4. Run  Application =========
 
 ============= Terminal  6 =============
+$ npm run ssl
 $ npm start
+
+** Now go to  https://localhost:3004 **
 
 ============= Terminal  7 =============
 $ npm run react-dev
